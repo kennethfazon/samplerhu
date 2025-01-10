@@ -75,7 +75,7 @@ export default function Footer() {
             color="text.secondary"
             sx={{ maxWidth: '500px', mx: 'auto', mb: 4 }}
           >
-            We're here to help with any questions about our services, appointments, or general inquiries
+            We&apos;re here to help with any questions about our services, appointments, or general inquiries
           </Typography>
         </Box>
 

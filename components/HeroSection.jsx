@@ -116,7 +116,7 @@ export default function HeroSection() {
           }}
         >
           At our clinic, we provide personalized health services, from routine checkups to specialized care.
-          Whether it's for your family, a chronic condition, or preventive health, we're here to support you every step of the way.
+          Whether it&apos;s for your family, a chronic condition, or preventive health, we&apos;re here to support you every step of the way.
         </Typography>
       </Container>
       

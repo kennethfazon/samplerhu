@@ -96,7 +96,7 @@ export default function ContentPage() {
                 color: 'text.secondary',
               }}
             >
-              From routine checkups to specialized care, we're here to guide you every step of the way. Let us help you live a healthier, happier life.
+              From routine checkups to specialized care, we&apos;re here to guide you every step of the way. Let us help you live a healthier, happier life.
             </Typography>
           </Box>
         </Box>

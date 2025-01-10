@@ -125,7 +125,7 @@ export default function AboutSection() {
                 lineHeight: 1.8 
               }}
             >
-              The Rural Health Unit (RHU) of Gubat, Sorsogon, was established to address the healthcare needs of the community, particularly in the rural areas where access to larger hospitals and medical facilities is limited. Over the years, it has evolved from a small health center into a more comprehensive facility offering a wide range of essential health services. The RHU has played a key role in promoting public health, providing maternal and child healthcare, immunization programs, and disease prevention. Through its various health initiatives and partnerships with local government and national health programs, the RHU continues to be a cornerstone of Gubat's healthcare system, ensuring that residents receive accessible and affordable medical care.
+              The Rural Health Unit (RHU) of Gubat, Sorsogon, was established to address the healthcare needs of the community, particularly in the rural areas where access to larger hospitals and medical facilities is limited. Over the years, it has evolved from a small health center into a more comprehensive facility offering a wide range of essential health services. The RHU has played a key role in promoting public health, providing maternal and child healthcare, immunization programs, and disease prevention. Through its various health initiatives and partnerships with local government and national health programs, the RHU continues to be a cornerstone of Gubat healthcare system, ensuring that residents receive accessible and affordable medical care.
             </Typography>
           </Paper>
         </Container>
