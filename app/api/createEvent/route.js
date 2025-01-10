@@ -1,5 +1,5 @@
 // app/api/createEvent/route.js
-import { connectMongoDB } from '@/lib/mongodb';
+import { connectMongoDB } from '/lib/mongodb';
 import Event from '../../../models/Event'; // Your Mongoose model
 
 export async function POST(req) {
