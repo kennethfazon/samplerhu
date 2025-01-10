@@ -11,10 +11,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
 
-export const metadata = {
-  title: 'My App',
-  description: 'An awesome app built with Next.js',
-};
+
 
 export default function RootLayout({ children, session  }) {
   return (
